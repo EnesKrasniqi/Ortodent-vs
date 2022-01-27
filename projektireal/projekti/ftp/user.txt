@@ -1,0 +1,10 @@
+Username :: epiz_30480170
+Password :: En3s1Krasniqi
+
+
+FTP Details
+FTP Username	epiz_30480170
+FTP Password
+kxuiPDkLdbCM
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
